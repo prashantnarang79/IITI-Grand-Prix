@@ -33,7 +33,7 @@ Develop a multiplayer racing game inspired by Mario Kart, set on IIT Indore’s 
 1. WASD, Arrow Buttons for Movement.
 2. Hold N to Activate Nitro.
 3. Spacebar for Handbrake.
-4. R to Reset to Checkpoint.
+4. F to Flip the car.
 
 ### Minimaps and Results Display
 - Each player's minimap displays only their own car to avoid confusion.
