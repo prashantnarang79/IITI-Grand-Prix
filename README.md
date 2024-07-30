@@ -52,7 +52,11 @@ Develop a multiplayer racing game inspired by Mario Kart, set on IIT Indore’s 
 - Mentor - Rajat Vishwakarma
   me220003085@iiti.ac.in
   Contribution: Guidance in understanding errors and solving them properly and tips for backup.
-  
+
+## Precautions
+1. Turn canvas on before build
+2. Scroll up to find room when joining
+3. To see which car you have selected, join in one by one and check on the hosts screen.
 ---
 
 Thank you for your interest in IITI Grand Prix! We hope you enjoy playing the game as much as we enjoyed developing it. 
